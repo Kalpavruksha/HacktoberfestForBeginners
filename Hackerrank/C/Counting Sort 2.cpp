@@ -145,3 +145,4 @@ char** split_string(char* str) {
 
     return splits;
 }
+
